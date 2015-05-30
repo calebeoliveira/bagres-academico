@@ -1,21 +1,10 @@
-## Lumen PHP Framework
+## Bagres Acadêmico
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/lumen-framework/v/stable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/lumen-framework/v/unstable.svg)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://packagist.org/packages/laravel/lumen-framework)
+Parece que certas instituições de ensino não têm vergonha dos sistemas de gerenciamento acadêmico que elas utilizam. Faça um pull-request se estiver errado, mas não é usual lançar exceptions na cara do usuário ao clicar num link, ou pior: não ter notificações por email que funcionem com avisos dos professores e departamentos. Também cairia bem saber quando aquele professor carrancudo de mal com a vida postou a nota.
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+# Missão
+~~Dominar o mundo~~Fornecer uma solução que facilite a vida dos professores e alunos que sofrem constantemente com os bugs do portal Sagres, além de uma API REST para facilitar o trabalho de futuros desenvolvedores.
 
-## Official Documentation
-
-Documentation for the framework can be found on the [Lumen website](http://lumen.laravel.com/docs).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-### License
-
-The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+# Roadmap
+30/05/2015 - Acabei de fazer um teste de login bem sucedido, passando por toda a burocracia de autenticação.
+?? - Refatorar tudo, criar um mecanismo de cadastro e autenticação.
